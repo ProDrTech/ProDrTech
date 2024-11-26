@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/your-image-link.jpg" alt="Banner" width="100%"/>
+<img src="https://avatars.dzeninfra.ru/get-zen_doc/1881575/pub_64f59315a451921b42835817_64f596252498936de3906471/orig" alt="Banner" width="100%"/>
 
 <h1 align="center">Hey 👋, I'm Odilov Asadbek</h1>
 <h3 align="center">🚀 Frontend Developer | UI/UX Enthusiast | Lifelong Learner 🌟</h3>
